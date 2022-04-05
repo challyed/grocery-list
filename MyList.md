@@ -1,3 +1,5 @@
-grocery-list
- Rice
- Beef
+# grocery-list
+ * Rice
+ * Beef
+ * Curry
+ * Potatos 
